@@ -2,6 +2,8 @@
 
 Aplicacion de escritorio en Python y PyQt5 para convertir videos a MP4 con H.264 y audio AAC. Permite procesar varios archivos en paralelo, elegir la calidad y resolucion, y usar codificacion por GPU cuando esta disponible.
 
+[Repositorio en GitHub](https://github.com/jpupo91/convertVideoFolder) · [Reportar un problema](https://github.com/jpupo91/convertVideoFolder/issues)
+
 ## Requisitos
 
 - Python 3.8 o posterior.
@@ -15,7 +17,7 @@ La codificacion por GPU depende del hardware, los controladores y de que la comp
 Clona el repositorio y entra en su carpeta:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/jpupo91/convertVideoFolder.git
 cd convertVideoFolder
 ```
 
@@ -69,4 +71,3 @@ convertVideoFolder/
 ├── .gitignore
 └── README.md
 ```
-
