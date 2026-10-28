@@ -1,1 +1,5 @@
+# Dependencia de Python para la interfaz grafica.
 PyQt5>=5.15.9,<6
+
+# FFmpeg y FFprobe son programas del sistema, no paquetes de pip.
+# Instalarlos por separado y asegurar que ambos esten en el PATH.
